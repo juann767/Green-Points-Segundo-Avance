@@ -1,4 +1,4 @@
-# 🌱 GreenPoints — Laravel (Segundo Avance)
+#  GreenPoints — Laravel (Segundo Avance)
 
 Proyecto académico UGB — Programación Computacional IV  
 Laboratorio 1, Tercer Cómputo, Segundo Avance
